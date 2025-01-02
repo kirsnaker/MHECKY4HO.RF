@@ -1,0 +1,18 @@
+.header {
+	color: blue;
+}
+.surname {
+	color: red;
+}
+a {
+	text-decoration: none;
+}
+.a3:hover {
+	text-decoration: underline;
+}
+body {
+	user-select: none;
+}
+.html {
+	color: red;
+}
